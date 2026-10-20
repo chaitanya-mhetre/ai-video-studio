@@ -1,0 +1,7 @@
+[
+  { "id": "problem", "spoken": "Every season, field inspections pile up faster than any team can reach them." },
+  { "id": "product", "spoken": "Our app turns one phone video into a verified report in minutes." },
+  { "id": "call_ai", "voice": "Kore", "skip_asr": true, "style": "A friendly, patient AI assistant on a live video call. Warm and clear.", "spoken": "Hold the phone a little closer to the leaves, please." },
+  { "id": "call_user", "voice": "Algenib", "skip_asr": true, "style": "A farmer answering on a video call, natural and relaxed.", "spoken": "Like this? Can you see the damage now?" },
+  { "id": "outro", "spoken": "Faster decisions. Fairer outcomes. Built for the field.", "expect": "faster decisions fairer outcomes built for the field" }
+]

@@ -1,0 +1,16 @@
+{
+  "aspect": "16:9",
+  "look_image": " Documentary photograph, full-frame camera, 35mm lens, natural light, muted earthy colour grade, soft contrast, fine film grain, realistic, no people's faces visible, no text, no logos, no watermark, no oversaturation, no HDR, no neon.",
+  "look_people": " Documentary photograph, full-frame camera, 35mm lens, natural light, muted earthy colour grade, soft contrast, fine film grain, realistic, authentic local people and clothing, natural skin, no text, no logos, no watermark, no oversaturation, no HDR, no neon.",
+  "look_video": " Documentary cinematography, steady gimbal camera, slow deliberate movement, natural light, muted earthy grade, realistic. Ambient sound only, no music, no dialogue, no on-screen text.",
+  "plates": {
+    "problem": { "prompt": "A field inspector's desk buried under tall stacks of paper inspection forms, a tired hand resting on them, window daylight, shallow depth of field." },
+    "call": { "prompt": "Close-up of hands holding a smartphone toward storm-damaged crop leaves in a field, overcast diffuse light; the phone screen faces away from camera." },
+    "self": { "prompt": "A middle-aged farmer in a light cotton shirt looking at a phone held at arm's length, field behind, soft morning light, friendly expression.", "people": true }
+  },
+  "clips": {
+    "problem": { "plate": "problem", "prompt": "Very slow push-in across the stacks of forms; a page lifts slightly in a fan breeze." },
+    "call": { "plate": "call", "prompt": "The hands move the phone slowly closer to the damaged leaves, slight natural sway; leaves tremble in a light wind." },
+    "self": { "plate": "self", "prompt": "The farmer nods and speaks to the phone, small natural head movements, gentle breeze; static camera." }
+  }
+}

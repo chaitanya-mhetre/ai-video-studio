@@ -1,0 +1,27 @@
+{
+  "name": "my-film",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render src/index.ts Film out/film.mp4",
+    "render:nobgm": "remotion render src/index.ts Film out/film-nobgm.mp4 --props='{\"bgm\":false}'",
+    "qa": "tsx scripts/qa-frames.ts"
+  },
+  "dependencies": {
+    "@remotion/bundler": "4.0.524",
+    "@remotion/cli": "4.0.524",
+    "@remotion/google-fonts": "4.0.524",
+    "@remotion/media": "4.0.524",
+    "@remotion/renderer": "4.0.524",
+    "@remotion/transitions": "4.0.524",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.524"
+  },
+  "devDependencies": {
+    "@types/react": "19.3.0",
+    "tsx": "^4.20.0",
+    "typescript": "5.9.3"
+  }
+}
