@@ -121,3 +121,7 @@ Run `scripts/placeholders.sh --clear` before generating real assets — it delet
 ## Credits
 
 Created by **Chaitanya Mhetre** — [@chaitanya-mhetre](https://github.com/chaitanya-mhetre)
+
+## License
+
+MIT © Chaitanya Mhetre — see [LICENSE](LICENSE). Covers the code and docs only; generated media, music and third-party footage keep their own licences (see Ethics & licensing).
